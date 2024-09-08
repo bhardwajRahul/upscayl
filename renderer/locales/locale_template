@@ -1,3 +1,9 @@
+// !!!!!!!!!!!!!!!!!!!!DO NOT DELETE THIS FILE!!!!!!!!!!!!!!
+// Copy this to a new file
+// Name the file {language}.json like en-US.json, ru-RU.json, etc
+// Replace the english strings present below with relevant languages
+// !!!!!!!!!!!!!!!!!!!!!KEEP ANYTHING PRESENT WITHIN FLOWER BRACES {variable} - THEY ARE VARIABLES!!!!!!!!!!!!!!!!!!!!!!!
+// Delete these comments starting with "//" as json format does not accept comments
 {
   "TITLE": "Upscayl",
   "INTRO": "Introducing Upscayl Cloud!",
@@ -100,15 +106,7 @@
     },
     "MODEL_SELECTION": {
       "TITLE": "Step 2",
-      "DESCRIPTION": "Select Model",
-      "MODELS": {
-        "x4plus": "General Photo (Real-ESRGAN)",
-        "x4fast": "General Photo (Fast Real-ESRGAN)",
-        "remacri": "General Photo (Remacri)",
-        "ultramix": "General Photo (Ultramix Balanced)",
-        "ultrasharp": "General Photo (Ultrasharp)",
-        "anime": "Digital Art"
-      }
+      "DESCRIPTION": "Select Model"
     },
     "DOUBLE_UPSCAYL": {
       "TITLE": "Double Upscayl",
